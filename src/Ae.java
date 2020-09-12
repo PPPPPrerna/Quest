@@ -2,18 +2,13 @@
 public class Ae {
 	
 	
-	public void test() {
-		System.out.println("Yeah");
-		
-		//final  up() {
-			
-		//}
-	}
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-
+			System.out.println("Cool");
+			System.out.println("Yeah");
 
 		}
 	}
